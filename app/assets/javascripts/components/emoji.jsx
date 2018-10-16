@@ -315,7 +315,7 @@ const json = {
 
   // WCS2018 Icons
   'KT': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3744.png',
-  'AF': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3740.png',
+  'AFS': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3740.png',
   'GEN': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3741.png',
   'RNG': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3762.png',
   'IG': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3759.png',
@@ -324,7 +324,7 @@ const json = {
   'VIT': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3738.png',
   'G2': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3734.png',
   'TL': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3767.png',
-  '100T': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3763.png',
+  '100': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3763.png',
   'C9': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3764.png',
   'FW': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3752.png',
   'MAD': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3757.png',
